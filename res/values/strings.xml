@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="empty">Edit entry</string>
+    <string name="confirm">Confirm</string>
+    <string name="title">Title</string>
+    <string name="body">Body</string>
+    
+    <string name="tacklebox_empty">Tackle box is empty</string>
+    <string name="no_lures">No lures in your tackle box</string>
+    <string name="no_rods">No rods in your tackle box</string>
+    <string name="no_reels">No reels in your tackle box</string>
+    <string name="no_lines">No line in your tackle box</string>
+	<string name="add_lure">Add Lure</string>
+
+    <string name="gearsetup_empty">Gear setup is empty</string>
+    
+    <string name="app_name">TackleBoxApp</string>
+    <string name="tacklebox_name">TackleBox</string>
+    <string name="gearsetup_name">GearSetup</string>
+    <string name="addlure_name">AddLure</string>
+
+    <string name="add_lure_brand">Enter Lure Brand</string>
+    <string name="add_lure_button_text">Add Lure</string>
+    <string name="lure_no_brand_specified">No Brand Specified</string>
+    <string name="lure_no_model_specified">No Model Specified</string>
+    <string name="lure_no_category_specified">No Category Specified</string>
+    <string name="lure_no_size_specified">No Size Specified</string>
+    <string name="lure_no_color_specified">No Color Specified</string>
+    <string name="lure_no_species_specified">No Species Specified</string>
+
+    <!-- Main Screen strings -->
+    <string name="main_fish_on_text">Fish On!</string>
+    <string name="main_no_setup_saved_text">You have no rod setup selected</string>
+    <string name="main_no_lure_saved_text">You have no lure selected</string>
+    <string name="main_add_rod_setup_menu">Update Rod Setup</string>
+    <string name="main_add_lure_menu">Update Lure Selection</string>
+
+    <!-- Rod Setup strings -->
+    <string name="rod_setup_empty">No rods have been setup</string>
+    <string name="rod_setup_add_text">Create Rod Setup</string>
+    <string name="rod_setup_no_rod">Use the Menu to select a rod</string>
+    <string name="rod_setup_no_reel">Use the Menu to select a reel</string>
+    <string name="rod_setup_no_line">Use the Menu to select a line</string>
+    <string name="rod_setup_update_rods_menu">Update rod selection</string>
+    <string name="rod_setup_update_reels_menu">Update reel selection</string>
+    <string name="rod_setup_update_line_menu">Update line selection</string>
+
+    <!-- Rod Activity strings -->
+    <string name="rod_activity_no_rods">Use the Menu to add a rod</string>
+    <string name="rod_activity_name">RodActivity</string>
+    <string name="rod_activity_add_rod_menu">Add rod</string>
+
+    <!-- Rod Activity Edit strings -->
+    <string name="rod_activity_edit_name">RodActivityEdit</string>
+    <string name="rod_activity_edit_save_button">Save Rod</string>
+    <string name="rod_activity_edit_brand_label">Rod Brand</string>
+    <string name="rod_activity_edit_model_label">Rod Model</string>
+    <string name="rod_activity_edit_category_label">Spinning/Casting/Fly</string>
+    <string name="rod_activity_edit_size_label">Rod Size</string>
+    <string name="rod_activity_edit_line_weight_label">Rod Line Weight</string>
+    <string name="rod_activity_edit_power_rating_label">Power Rating</string>
+
+</resources>
